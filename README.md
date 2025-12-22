@@ -1,4 +1,5 @@
 # result_speakable_calculator
+A calculator that can read results with kawaii voice.
 可读出结果的计算器
 
 读数算法包含在speak_result函数中
